@@ -1,0 +1,2 @@
+# LXC-NewTechnologyOfSoftwareEngineering
+软件工程经济学课程资料和作业的仓库
